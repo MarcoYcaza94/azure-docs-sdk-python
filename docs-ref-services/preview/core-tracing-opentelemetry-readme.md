@@ -10,7 +10,7 @@ ms.service: core
 ---
 
 
-# Azure Core Tracing OpenTelemetry client library for Python - version 1.0.0a20220815006 
+# Azure Core Tracing OpenTelemetry client library for Python - version 1.0.0a20220815007 
 
 
 ## Getting started
