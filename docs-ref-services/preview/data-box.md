@@ -1,12 +1,12 @@
 ---
-ms.author: lmazuel
-ms.devlang: python
 title: Azure Data Box SDK for Python
-author: lmazuel
-ms.topic: reference
-ms.service: databox
-ms.data: 08/12/2022
 description: Reference for Azure Data Box SDK for Python
+ms.service: databox
+ms.devlang: python
+author: lmazuel
+ms.author: lmazuel
+ms.topic: reference
+ms.data: 08/16/2022
 ---
 # Azure Data Box SDK for Python - preview
 

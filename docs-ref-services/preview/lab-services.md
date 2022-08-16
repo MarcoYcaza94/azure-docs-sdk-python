@@ -1,12 +1,12 @@
 ---
-ms.author: lmazuel
-ms.devlang: python
 title: Azure Lab Services SDK for Python
-author: lmazuel
-ms.topic: reference
-ms.service: labservices
-ms.data: 08/12/2022
 description: Reference for Azure Lab Services SDK for Python
+ms.service: labservices
+ms.devlang: python
+author: lmazuel
+ms.author: lmazuel
+ms.topic: reference
+ms.data: 08/15/2022
 ---
 # Azure Lab Services SDK for Python - preview
 
