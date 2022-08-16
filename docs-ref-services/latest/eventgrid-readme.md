@@ -40,13 +40,13 @@ If you use Azure CLI, replace `<resource-group-name>` and `<resource-name>` with
 #### Create an Event Grid Topic
 
 ```
-az eventgrid topic --create --location <location> --resource-group <resource-group-name> --name <resource-name>
+az eventgrid topic create --location <location> --resource-group <resource-group-name> --name <resource-name>
 ```
 
 #### Create an Event Grid Domain
 
 ```
-az eventgrid domain --create --location <location> --resource-group <resource-group-name> --name <resource-name>
+az eventgrid domain create --location <location> --resource-group <resource-group-name> --name <resource-name>
 ```
 
 ### Authenticate the client
